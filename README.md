@@ -1,6 +1,6 @@
 # Challenge2Flexbox
 Trilogy bootcamp exercise
-# Challenge2Flexbox
+
 
 Trilogy bootcamp exercise This is a portfolio exercise with the following # Acceptance Criteria
 
